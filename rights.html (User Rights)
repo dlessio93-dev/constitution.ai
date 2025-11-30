@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>User Rights</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>User Rights</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="principles.html">Principles</a>
+      <a href="rights.html">User Rights</a>
+      <a href="duties.html">AI Duties</a>
+      <a href="governance.html">Governance</a>
+    </nav>
+  </header>
+
+  <div class="container">
+    <h2>Article 5 — Right to Safety</h2>
+    <p>Users have the right to interact only with AI systems that meet strict safety and reliability standards.</p>
+
+    <h2>Article 6 — Right to Privacy</h2>
+    <p>AI may access, store, or process personal data only when necessary and under the highest data protection standards.</p>
+
+    <h2>Article 7 — Right to Understanding</h2>
+    <p>Users are entitled to clear explanations of decisions that significantly affect them.</p>
+
+    <h2>Article 8 — Right to Human Oversight</h2>
+    <p>Users can demand human review, human intervention, or complete opt-out from autonomous decision-making.</p>
+  </div>
+
+  <footer>
+    &copy; 2025 Robot Constitution Project
+  </footer>
+</body>
+</html>
