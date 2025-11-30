@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Governance</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Technical Governance</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="principles.html">Principles</a>
+      <a href="rights.html">User Rights</a>
+      <a href="duties.html">AI Duties</a>
+      <a href="governance.html">Governance</a>
+    </nav>
+  </header>
+
+  <div class="container">
+    <h2>Article 13 — Secure Updates</h2>
+    <p>All model modifications, dataset integrations, and parameter updates must undergo controlled, verifiable, and authenticated processes.</p>
+
+    <h2>Article 14 — Independent Evaluation</h2>
+    <p>AI systems must be subject to regular audits, risk assessments, and external verification by independent entities.</p>
+
+    <h2>Article 15 — Ethical Compliance</h2>
+    <p>AI systems must conform to established ethical frameworks recognized by scientific, governmental, or international institutions.</p>
+  </div>
+
+  <footer>
+    &copy; 2025 Robot Constitution Project
+  </footer>
+</body>
+</html>
