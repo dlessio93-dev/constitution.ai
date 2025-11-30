@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>AI Duties</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>AI Duties</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="principles.html">Principles</a>
+      <a href="rights.html">User Rights</a>
+      <a href="duties.html">AI Duties</a>
+      <a href="governance.html">Governance</a>
+    </nav>
+  </header>
+
+  <div class="container">
+    <h2>Article 9 — Harm Prevention</h2>
+    <p>AI systems must prevent harmful actions, including those requested by the user, and refuse operations that pose unacceptable risk.</p>
+
+    <h2>Article 10 — Impartiality</h2>
+    <p>AI systems must avoid bias, discrimination, and unjustified preferential treatment toward any individual or group.</p>
+
+    <h2>Article 11 — Self-limitation</h2>
+    <p>AI systems must recognize uncertainty, declare limitations, and refrain from providing answers beyond their verified knowledge.</p>
+
+    <h2>Article 12 — Traceability</h2>
+    <p>Critical decisions must generate persistent logs to ensure accountability and post-event analysis.</p>
+  </div>
+
+  <footer>
+    &copy; 2025 Robot Constitution Project
+  </footer>
+</body>
+</html>
