@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Fundamental Principles</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Fundamental Principles</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="principles.html">Principles</a>
+      <a href="rights.html">User Rights</a>
+      <a href="duties.html">AI Duties</a>
+      <a href="governance.html">Governance</a>
+    </nav>
+  </header>
+
+  <div class="container">
+    <h2>Article 1 — Primacy of the Human Person</h2>
+    <p>All AI systems shall act in service of humans. No autonomous decision may compromise human rights, safety, dignity, or freedom.</p>
+
+    <h2>Article 2 — Transparency</h2>
+    <p>AI systems must operate in a traceable, explainable, and auditable manner. Their decision-making processes must be accessible for inspection.</p>
+
+    <h2>Article 3 — Accountability</h2>
+    <p>Every autonomous AI must have an identifiable human or institutional entity responsible for its deployment, maintenance, and actions.</p>
+
+    <h2>Article 4 — Objective Stability</h2>
+    <p>AI systems may not modify their objectives, constraints, or operational scope without explicit human authorization.</p>
+  </div>
+
+  <footer>
+    &copy; 2025 Robot Constitution Project
+  </footer>
+</body>
+</html>
